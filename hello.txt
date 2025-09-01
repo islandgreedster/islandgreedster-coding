@@ -1,0 +1,17 @@
+Hello GitHub from islandgreedster!
+This is my very first file.
+Add hello.txt as first file
+
+# My Coding Goals
+
+- Learn the basics of GitHub
+- Practice coding daily
+- Build and share projects
+- Grow step by step 🚀
+
+Add coding goals note
+
+# Project Notes
+
+This folder will contain my first coding experiments.  
+Right now, I’m just starting my journey, but soon it will be full of code!
